@@ -1,2 +1,2 @@
 # yikee.github.io
->> Yike's Website 🎀
+Yike's Website 🎀

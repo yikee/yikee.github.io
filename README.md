@@ -1,2 +1,2 @@
 # yikee.github.io
-Yike Wang's Website 🎀
+Yike Wang's Website
